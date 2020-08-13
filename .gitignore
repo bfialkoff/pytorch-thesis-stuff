@@ -1,0 +1,11 @@
+*.*~
+*.pyc
+*.pth
+
+.idea/
+__pycache__/
+pretrained/
+data/kinetics/
+files/
+pytorch_resnet3d/
+reproduce_original_regresnet/
